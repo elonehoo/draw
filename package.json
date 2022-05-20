@@ -2,6 +2,7 @@
   "name": "draw",
   "private": true,
   "version": "0.0.0",
+  "packageManager": "pnpm@7.1.2",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
