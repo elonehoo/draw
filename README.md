@@ -1,3 +1,3 @@
 # Draw
 
-[live demo](https://drwa.elonehoo.xyz/)
+[live demo](https://draw.elonehoo.xyz)
