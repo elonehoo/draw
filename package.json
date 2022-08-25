@@ -11,14 +11,14 @@
     "lint:fix": "eslint . --fix"
   },
   "devDependencies": {
-    "@elonehoo/eslint-config": "^2.0.0",
-    "@types/node": "^17.0.35",
-    "drauu": "^0.3.0",
-    "eslint": "^8.15.0",
-    "pnpm": "^7.1.2",
-    "typescript": "^4.5.4",
-    "vite": "^2.9.9",
-    "vite-plugin-windicss": "^1.8.4",
-    "windicss": "^3.5.4"
+    "@elonehoo/eslint-config": "2.0.0",
+    "@types/node": "17.0.45",
+    "drauu": "0.3.1",
+    "eslint": "8.22.0",
+    "pnpm": "7.9.5",
+    "typescript": "4.7.4",
+    "vite": "2.9.15",
+    "vite-plugin-windicss": "1.8.7",
+    "windicss": "3.5.6"
   }
 }
