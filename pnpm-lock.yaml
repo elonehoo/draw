@@ -3,7 +3,7 @@ lockfileVersion: 5.4
 specifiers:
   '@elonehoo/eslint-config': 2.0.0
   '@types/node': 17.0.45
-  drauu: 0.3.1
+  drauu: 0.3.2
   eslint: 8.23.0
   pnpm: 7.11.0
   typescript: 4.8.3
@@ -14,7 +14,7 @@ specifiers:
 devDependencies:
   '@elonehoo/eslint-config': 2.0.0_itqs5654cmlnjraw6gjzqacppi
   '@types/node': 17.0.45
-  drauu: 0.3.1
+  drauu: 0.3.2
   eslint: 8.23.0
   pnpm: 7.11.0
   typescript: 4.8.3
@@ -49,10 +49,10 @@ packages:
       js-tokens: 4.0.0
     dev: true
 
-  /@drauu/core/0.3.1:
-    resolution: {integrity: sha512-woxjFf1rQ/Z7sfqvfpjClvCkUqhH5bb1dmXs5DZtDE7+zr6qLAZIj0jlqbI2eiBl61Q2zXzsG/oez1E8B+zXpQ==}
+  /@drauu/core/0.3.2:
+    resolution: {integrity: sha512-7G3qIuMBkDkrzvZOs6Rm/7rKWuhZOe8iimHooTmy4vpKGsPimaNC1jGCSPSM8ys/johhcIvx+1ZvnMJ5+UAXJA==}
     dependencies:
-      perfect-freehand: 1.1.0
+      perfect-freehand: 1.2.0
     dev: true
 
   /@elonehoo/eslint-config-basic/2.0.0_dxl4c3iinns2ghsrddm4spdvtq:
@@ -704,10 +704,10 @@ packages:
       domhandler: 4.3.1
     dev: true
 
-  /drauu/0.3.1:
-    resolution: {integrity: sha512-eqjboIt++w9Sc3U8X8X1F0Lkw+L2VpiVSx1Sy732urAyMc/aqucvEC8L29P0IoaSHhCLOcrgleVW9ZYqQrrZ8Q==}
+  /drauu/0.3.2:
+    resolution: {integrity: sha512-NnRQU6uM9uk1zAd33nFZ6FqZGGmT3jiYS/ERdDIDuTUgDsweSgpf1D3X7vYZwRSxCZayOnnt1sKWj9swbR8q4Q==}
     dependencies:
-      '@drauu/core': 0.3.1
+      '@drauu/core': 0.3.2
     dev: true
 
   /entities/2.2.0:
@@ -2149,8 +2149,8 @@ packages:
     engines: {node: '>=8'}
     dev: true
 
-  /perfect-freehand/1.1.0:
-    resolution: {integrity: sha512-nVWukMN9qlii1dQsQHVvfaNpeOAWVLgTZP6e/tFcU6cWlLo+6YdvfRGBL2u5pU11APlPbHeB0SpMcGA8ZjPgcQ==}
+  /perfect-freehand/1.2.0:
+    resolution: {integrity: sha512-h/0ikF1M3phW7CwpZ5MMvKnfpHficWoOEyr//KVNTxV4F6deRK1eYMtHyBKEAKFK0aXIEUK9oBvlF6PNXMDsAw==}
     dev: true
 
   /picocolors/1.0.0:
